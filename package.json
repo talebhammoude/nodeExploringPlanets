@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/talebhammoude/nodeExploringPlanets/issues"
   },
-  "homepage": "https://github.com/talebhammoude/nodeExploringPlanets#readme"
+  "homepage": "https://github.com/talebhammoude/nodeExploringPlanets#readme",
+  "dependencies": {
+    "csv-parse": "^5.2.0"
+  }
 }
